@@ -52,7 +52,7 @@ const App = () => {
       <ReactQueryDevtools/>
 </QueryClientProvider>
       
-      {/* <Home/> */}
+    
     </div>
   );
 };
